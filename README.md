@@ -3,3 +3,6 @@
 ">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
 </a>
+
+# Qiitaにおける、本プロジェクトの解説
+https://qiita.com/drafts/bf3decfe6766f90d7fae/edit
