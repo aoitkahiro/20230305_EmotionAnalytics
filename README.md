@@ -18,6 +18,8 @@ Throughout, we are implementing data preprocessing and improving the performance
 [【後編】元自衛隊のエンジニア1年目がPythonで感情予測をした話 25.5%→33.6%](https://qiita.com/drafts/bf3decfe6766f90d7fae/edit)  
 
 # DEMO
+Being prepared with a deadline of May 30.
+5月30日を期限として作成中。
 
 # Features
 ###### 特色
