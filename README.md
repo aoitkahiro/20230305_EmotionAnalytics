@@ -35,9 +35,8 @@ Being prepared with a deadline of May 30.
 
 # Author
 ###### 作成情報
-
-Takahiro Aoi  
-aoil@hotmail.co.jp
+青井 隆博 Takahiro Aoi  
+Email: aoil@hotmail.co.jp
 
 # License
 "20230305_emotion_analytics" is under MIT license.  
