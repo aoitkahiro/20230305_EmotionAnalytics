@@ -8,9 +8,9 @@ In this project, we are using Twitter data to analyze tweets for emotion.
 We believe that if we can create a highly accurate model for sentiment analysis, we will be able to quantitatively determine the sentiment of various texts, not just tweets.  
 Throughout, we are implementing data preprocessing and improving the performance of the model to increase accuracy.  
 
-###### 本プロジェクトではTwitterのデータを利用して、ツイートのデータを感情分析しています。  
-###### 感情分析の高精度なモデルが出来れば、ツイートに限らず様々な文章の感情を定量的に判定できるようになると考えます。  
-###### 全体を通して、精度が高くなるようにデータの前処理やモデルの性能向上を実施しています。  
+<sub>本プロジェクトではTwitterのデータを利用して、ツイートのデータを感情分析しています。
+感情分析の高精度なモデルが出来れば、ツイートに限らず様々な文章の感情を定量的に判定できるようになると考えます。
+全体を通して、精度が高くなるようにデータの前処理やモデルの性能向上を実施しています。</sub>
 
 # Description of this project on Qiita
 ###### Qiitaにおける、本プロジェクトの解説
