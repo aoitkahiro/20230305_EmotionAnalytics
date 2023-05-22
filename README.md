@@ -1,8 +1,8 @@
-# What the program does? &nbsp;<sub>（何をするプログラム？）</sub>
-    
-  このプログラムは、Twitterのツイートのような短文の感情分析モデルです。
+# What the program does? &nbsp;<sub>（何をするプログラム？）</sub>  
+This program is a sentiment analysis model; it can analyze short sentences like tweets on Twitter.  
+<sub>このプログラムは感情分析モデルです。Twitterのツイートのような短文を分析できます。</sub>
   
-| Step | Process | 処理内容 |  
+| Step | Process | 処理 |  
 |:-:|:--|:--|  
 |1 |Enter a tweet in English|英語のツイートを入力 |
 |2 |Classify tweets into 6 categories|ツイートを6種類に分類 |
@@ -35,27 +35,25 @@
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
 </a>  
 
-# DEMO
-Being prepared with a deadline of May 30.
-5月30日を期限として作成中。
+# DEMO <sub>（デモ）</sub>
+Being prepared with a deadline of May 30.  
+<sub>5月30日を期限として作成中。</sub>
 
-# Features
-###### 特色
+# Features <sub>（特色）</sub>
+It is constructed using a random forest. Other models are being considered to further improve accuracy.  
+<sub>ランダムフォレストを用いて構築しています。さらに精度を上げるため、他のモデルを検討中です。</sub>
 
-# Requirement
-###### 動作環境
+# Requirement <sub>（動作環境）</sub>  
 
-# Usage
+# Usage <sub>（使い方）</sub>  
 ###### 使い方
 
-# Note
-###### 注意点
+# Note <sub>（注意点）</sub>  
 
-# Author
-###### 作成情報
-青井 隆博 Takahiro Aoi  
+# Author <sub>（作成情報）</sub>
+Takahiro Aoi  青井 隆博  
 Email: aoil@hotmail.co.jp
 
-# License
+# License <sub>（ライセンス）</sub>  
 "20230305_emotion_analytics" is under MIT license.  
-###### "20230305_emotion_analytics" はMITライセンスです。
+<sub> "20230305_emotion_analytics" はMITライセンスです。</sub>
