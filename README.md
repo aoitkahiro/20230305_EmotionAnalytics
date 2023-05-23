@@ -16,20 +16,24 @@ This program is a sentiment analysis model; it can analyze short sentences like 
  3. To achieve my objective, I am creating a highly accurate emotion analysis model  
  4. At the same time, I aim to improve my own skills  
 
-```
- 1. 当初の目的は、自分のお客様（コールセンター）の課題解決でした  
- 2. そのために、様々な文章（クレーム）の感情を判定する必要がありました  
- 3. 目的達成のために、高精度な感情分析モデル作成を行っています  
- 4. 同時に、自分自身のスキルアップも目指しています  
-```
+> 1. 当初の目的は、自分のお客様（コールセンター）の課題解決でした  
+> 2. そのために、様々な文章（クレーム）の感情を判定する必要がありました  
+> 3. 目的達成のために、高精度な感情分析モデル作成を行っています  
+> 4. 同時に、自分自身のスキルアップも目指しています  
+
 
 
 # Description on Qiita in Japanese <sub>（Qiitaで解説（日本語のみ））</sub>
+### 採用ご担当者様へ
+#### 詳しい解説があり、私の分析力と説明力が分かります。<br>ご多用のところと存じますが、ご確認お願い致します。
 
  [【前編】元自衛隊のエンジニア1年目がPythonで感情予測をした話 24.0%→25.5%](https://qiita.com/takahiroaoi/items/bf3decfe6766f90d7fae)   
  [【後編】元自衛隊のエンジニア1年目がPythonで感情予測をした話 25.5%→33.6%](https://qiita.com/takahiroaoi/items/fccfa0ba8726adcc2035)  
 
-# Code <sub>（コード）</sub>
+# Code <sub>（コード）</sub>  
+Under correction as of May 23.  
+<sub>5月23日現在修正中です</sub>  
+  
 <a href="https://colab.research.google.com/github/aoitkahiro/20230305_emotion_analytics/blob/main/%E6%84%9F%E6%83%85%E5%88%86%E6%9E%90_ver_5_0_20230305_%E7%B2%BE%E5%BA%A633_6__Qiita%E5%BE%8C%E7%B7%A8%E7%A8%BF_%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88_%E7%9B%AE%E7%9A%84%E5%A4%89%E6%95%B08%E5%80%8B.ipynb
 ">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
@@ -52,9 +56,9 @@ Being prepared with a deadline of May 30.
 It takes about `1 minute` to complete program execution  
 <sub>プログラム実行完了まで`約1分`かかります</sub>
 
-# Author <sub>（作成情報）</sub>
+# Author <sub>（作成者）</sub>
 Takahiro Aoi &nbsp; <sub>青井 隆博</sub>  
-Email: aoil@hotmail.co.jp
+E-mail: aoil@hotmail.co.jp
 
 # License <sub>（ライセンス）</sub>  
 "20230305_emotion_analytics" is under MIT license.  
