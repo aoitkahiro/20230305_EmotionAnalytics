@@ -39,9 +39,6 @@ Under correction as of May 23.
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
 </a>  
 
-# DEMO <sub>（デモ）</sub>
-Being prepared with a deadline of May 30.  
-<sub>5月30日を期限として作成中。</sub>
 
 # Features <sub>（特色）</sub>
 `The random forest` is used in the construction. `TF-IDF` and `Transformer` are under consideration to further improve the accuracy.    
